@@ -15,7 +15,7 @@ class ViewController: UIViewController, UIScrollViewDelegate {
     
     var onboardArray = ["1","2","3","4","5"]
 
-    var onboardStringArray = ["私たちはみんなで繋がっています","Good","Hooo","GoodBye","Thankyou"]
+    var onboardStringArray = ["誰もが発信者となった現代社会において","偏見や中傷、差別が横行して欲しくない","より多くの人たちが、より良質な情報に出会ってほしい","そして、いつか世界中の人が笑って暮らせるように","Begin"]
     
     
     
@@ -36,7 +36,6 @@ class ViewController: UIViewController, UIScrollViewDelegate {
             animationView.loopMode = .loop
             animationView.play()
             self.scrollView.addSubview(animationView)
-
         }
     
         

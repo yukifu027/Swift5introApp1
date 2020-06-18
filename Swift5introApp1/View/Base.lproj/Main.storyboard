@@ -50,6 +50,26 @@
                     <view key="view" contentMode="scaleToFill" id="HzO-ej-UQR">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view alpha="0.55000000000000004" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="ClE-eh-mIM">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemGray2Color" red="0.68235294120000001" green="0.68235294120000001" blue="0.69803921570000005" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </view>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WWw-Y5-1fO">
+                                <rect key="frame" x="88" y="404" width="240" height="88"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="linkColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="25"/>
+                                <state key="normal" title="ログイン">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <connections>
+                                    <action selector="login:" destination="F6t-rF-WNo" eventType="touchUpInside" id="2hE-gP-Dls"/>
+                                    <segue destination="1C4-Tz-5Ee" kind="show" id="fHW-5G-DDh"/>
+                                </connections>
+                            </button>
+                        </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <viewLayoutGuide key="safeArea" id="cUD-yX-tmy"/>
                     </view>
@@ -57,7 +77,23 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="0BL-sL-4dQ" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1846" y="118"/>
+            <point key="canvasLocation" x="1844.9275362318842" y="117.85714285714285"/>
+        </scene>
+        <!--Base View Controller-->
+        <scene sceneID="Hgp-hY-lup">
+            <objects>
+                <viewController id="1C4-Tz-5Ee" customClass="BaseViewController" customModule="Swift5introApp1" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="hp6-pI-MHZ">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <viewLayoutGuide key="safeArea" id="BX1-bU-UlB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="gfx-wN-kxv"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="drM-8S-orA" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2655" y="118"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="XeB-p6-r6p">
