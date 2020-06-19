@@ -15,7 +15,7 @@ class ViewController: UIViewController, UIScrollViewDelegate {
     
     var onboardArray = ["1","2","3","4","5"]
 
-    var onboardStringArray = ["誰もが発信者となった現代社会において","偏見や中傷、差別が横行して欲しくない","より多くの人たちが、より良質な情報に出会ってほしい","そして、いつか世界中の人が笑って暮らせるように","Begin"]
+    var onboardStringArray = ["誰もが発信者となった現代社会において","偏見や中傷、差別が横行して欲しくない","より多くの人たちが、より良質な情報に出会ってほしい","そして、いつか世界中の人が笑って暮らせるように","世界のニュースをアプリ一つで"]
     
     
     
