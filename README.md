@@ -16,11 +16,11 @@
 # DEMO
 ## 1 アニメーション付きのアプリの説明
 <p align="center">
-  <img src="https://i.gyazo.com/03264a109fe3fa9304bc037dbb7e03b7.png" width="150px;" />
-  <img src="https://i.gyazo.com/7f16d4957ce0c618e2933be87273a2ec.png" width="150px;" />
-  <img src="https://i.gyazo.com/0701dc9fa9219f50614f4b2b870760a6.png" width="150px;" />
-  <img src="https://i.gyazo.com/1afcccfa7f30d35a1024bbe4f625c259.png" width="150px;" />
-  <img src="https://i.gyazo.com/102ccb28b810b9dc165aa80ce47ffbe4.png" width="150px;" />
+  <img src="https://i.gyazo.com/03264a109fe3fa9304bc037dbb7e03b7.png" width="250px;" />
+  <img src="https://i.gyazo.com/7f16d4957ce0c618e2933be87273a2ec.png" width="250px;" />
+  <img src="https://i.gyazo.com/0701dc9fa9219f50614f4b2b870760a6.png" width="250px;" />
+  <img src="https://i.gyazo.com/1afcccfa7f30d35a1024bbe4f625c259.png" width="250px;" />
+  <img src="https://i.gyazo.com/102ccb28b810b9dc165aa80ce47ffbe4.png" width="250px;" />
 </p>
 
 ## 2 ボケるコメントを載せ、シェアする
