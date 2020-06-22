@@ -45,5 +45,7 @@ Swift/Xcode/Github
 <dl>
   <dt>閲覧できるメディアの数が少ない</dt>
   <dd>閲覧できるメディアの数を増やす</dd>
+  <dt>iPhone１１以外の機種を使用すると、ビューが崩れてしまう</dt>
+  <dd>AutoLayoutを使って、マルチデバイスを実現する</dd>
 </dl>
 
