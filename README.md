@@ -16,7 +16,7 @@
 # DEMO
 ## 1 アニメーション付きのアプリの説明
 <p align="center">
-  <img src="https://〜.png" width="250px;" />
+  <img src="7d3363a0cbbd098d487e0581336ed4fd.gif" width="250px;" />
   <img src="https://〜.png" height="45px;" />
   <img src="https://〜.png" height="45px;" />
   <img src="https://〜.png" height="40px;" />
